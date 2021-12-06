@@ -1,4 +1,4 @@
-package org.jetbrains.plugins.template
+package com.github.clin1234.nanokeybindings
 
 import com.intellij.DynamicBundle
 import org.jetbrains.annotations.NonNls
